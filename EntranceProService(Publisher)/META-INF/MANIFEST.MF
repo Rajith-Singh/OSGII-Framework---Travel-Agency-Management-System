@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EntranceProService_Publisher_
+Bundle-SymbolicName: EntranceProService_Publisher_
+Bundle-Version: 1.0.0.qualifier
+Export-Package: entranceproservice_publisher_
+Bundle-Activator: entranceproservice_publisher_.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-18
+Automatic-Module-Name: EntranceProService.Publisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

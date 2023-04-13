@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entranceproservice.ServicePublishImpl"/>
+    <fullyQualifiedTypeName name="entranceproservice.PublishService"/>
+    <fullyQualifiedTypeName name="entranceproservice_publisher_.PublisherEntranceImpl"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.ServiceReference"/>
+    <fullyQualifiedTypeName name="entranceproservice_publisher_.PublisherEntrance"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="entranceproservice_publisher_.Amount"/>
+    <fullyQualifiedTypeName name="transistpassservice_publisher_.PublisherTransit"/>
+    <fullyQualifiedTypeName name="odysseyrailservice_publisher_.PublisherTrainJourney"/>
+    <fullyQualifiedTypeName name="railwayjourneyservice_publisher_.PublisherRailway"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.ServiceRegistration"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

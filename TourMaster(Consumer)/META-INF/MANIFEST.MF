@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TourMaster_Consumer_
+Bundle-SymbolicName: TourMaster_Consumer_
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: tourmaster_consumer_.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-18
+Automatic-Module-Name: TourMaster.Consumer
+Import-Package: org.osgi.framework;version="1.3.0",
+ tourmasterservice_publisher_
+Bundle-ActivationPolicy: lazy
